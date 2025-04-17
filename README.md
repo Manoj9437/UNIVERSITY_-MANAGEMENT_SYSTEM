@@ -13,13 +13,10 @@ Department Oversight: Organize courses and faculty under specific departments.
 User-Friendly Interface: Intuitive GUI for seamless navigation and operation.
 
 # Technologies Used
-## Programming Language: Java
-
-## Development Environment: NetBeans IDE
-
-## Build Tool: Apache Ant
-
-## Database: (Please specify the database used, e.g., MySQL, SQLite)
+Programming Language: Java
+Development Environment: NetBeans IDE
+Build Tool: Apache Ant
+Database: (Please specify the database used, e.g., MySQL, SQLite)
 
 # Project Structure
 src/: Contains the Java source code organized into packages.
